@@ -11,7 +11,7 @@
 <p>Should you have any inquiries or recommendations, don't hesitate to reach out to [Kazura Kenzo] at [kazurakenzo@gmail.com].</p>
 
 
-<h2>Credits</h2>:
+<h2>Credits</h2>
 
 <p>Massively by HTML5 UP</p>
 <p>html5up.net | @ajlkn
