@@ -1,8 +1,3 @@
-<h1>Personal portfolio Website</h1>
-
-<p>This is a HTML-based porject porfolio, designed to portray future and current projects...</p>
-
-
 <h2>Contributing</h2>
 <p>Contributions are accepted and welcome! "If you have suggestions for enhancements or identifying and resolving issues, kindly submit them via pull requests.</p>
 
